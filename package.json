@@ -1,0 +1,50 @@
+{
+  "name": "enfsmkdirp-promise",
+  "version": "0.1.0",
+  "description": "mkdir -p for node fs module with promises",
+  "license": "CC-BY-4.0",
+  "author": {
+    "name": "Joao Parreira",
+    "email": "joaofrparreira@gmail.com"
+  },
+  "homepage": "https://github.com/n3okill/enfsmkdirp-promise",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n3okill/enfsmkdirp-promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n3okill/enfsmkdirp-promise/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test",
+    "appveyor": "node ./node_modules/mocha/bin/mocha --reporter spec --require should test/*.js"
+  },
+  "dependencies": {
+    "enfsmkdirp": "^1.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-mocha": "^4.9.0",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1",
+    "rimraf": "^2.6.1",
+    "enfspatch-promise":"^1.0"
+  },
+  "keywords": [
+    "array",
+    "braces",
+    "fs",
+    "file",
+    "file system",
+    "directory",
+    "mkdir",
+    "mkdirp"
+  ]
+}
