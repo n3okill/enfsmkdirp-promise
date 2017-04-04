@@ -1,6 +1,6 @@
 {
   "name": "enfsmkdirp-promise",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "mkdir -p for node fs module with promises",
   "license": "CC-BY-4.0",
   "author": {
@@ -35,8 +35,8 @@
     "mocha": "^3.2",
     "should": "^11.2",
     "rimraf": "^2.6",
-    "enfspatch-promise":"^1.0",
-    "brace-expansion":"^1.1"
+    "enfspatch-promise": "^1.0",
+    "brace-expansion": "^1.1"
   },
   "keywords": [
     "array",
