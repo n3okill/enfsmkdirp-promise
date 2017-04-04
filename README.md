@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/n3okill/enfsmkdirp-promise.svg)](https://travis-ci.org/n3okill/enfsmkdirp-promise)
-[![AppVeyor status](https://ci.appveyor.com/api/projects/status/9dk56b6mtkdlmm7q?svg=true)](https://ci.appveyor.com/project/n3okill/enfsmkdirp-promise)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/69090ad47de140bbb12d82a2f5a8bed3)](https://www.codacy.com/app/n3okill/enfsmkdirp-promise)
+[![AppVeyor status](https://ci.appveyor.com/api/projects/status/o9eohxdni6ajpstt?svg=true)](https://ci.appveyor.com/project/n3okill/enfsmkdirp-promise)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ebe35e00d9eb49899ea8897304e9b405)](https://www.codacy.com/app/n3okill/enfsmkdirp-promise)
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=64PYTCDH5UNZ6)
 
 [![NPM](https://nodei.co/npm/enfsmkdirp-promise.png)](https://nodei.co/npm/enfsmkdirp-promise/)
