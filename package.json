@@ -30,12 +30,13 @@
     "enfsmkdirp": "^1.0"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
-    "eslint-plugin-mocha": "^4.9.0",
-    "mocha": "^3.2.0",
-    "should": "^11.2.1",
-    "rimraf": "^2.6.1",
-    "enfspatch-promise":"^1.0"
+    "eslint": "^3.19",
+    "eslint-plugin-mocha": "^4.9",
+    "mocha": "^3.2",
+    "should": "^11.2",
+    "rimraf": "^2.6",
+    "enfspatch-promise":"^1.0",
+    "brace-expansion":"^1.1"
   },
   "keywords": [
     "array",
